@@ -45,7 +45,7 @@ Se podrían mejorar los planes como el Premium con promociones para captar clien
 - Abre el archivo `.ipynb` en GitHub
 - Haz clic en **Open in Colab**
 
-**Cómo reproducir el análisi**
+**Cómo reproducir el análisis**
 - Abre ´S7 Version-Estudiante-Project-ConnectaTel.ipynb´
 - Ejecuta las celdas en orden
 - El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público.
